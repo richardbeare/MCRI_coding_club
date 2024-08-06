@@ -5,7 +5,7 @@
 Ensure you have the `tidyverse` and `devtools` packages installed:
 
 ```r
-install.packages(c("devtools", "tidyverse", "git2r))
+install.packages(c("devtools", "tidyverse", "git2r"))
 ```
 
 Then clone this repository from within R using the following command:
